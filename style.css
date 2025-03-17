@@ -2,5 +2,29 @@
     background-color: #EEEDDE!important;
 }
 .btn{
-    background-color: #FFA07A!important;
+    background-color: #203239!important;
+}
+.search-box {
+    max-width: 90%; 
+}
+.search-input {
+    font-size: 14px; 
+    border: none; 
+    outline: none !important; 
+    box-shadow: none !important; 
+}
+.font-poppins{
+    font-family: poppins;
+}
+.home{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 50px;
+}
+.plus{
+    color: #FF7527;
+    font-weight: bold;
+}
+.engage>div{
+    width:120px
 }
