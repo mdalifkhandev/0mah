@@ -1,30 +1,72 @@
-.container{
-    background-color: #EEEDDE!important;
+.first-page{
+    background-color: #eeedde;
 }
-.btn{
-    background-color: #203239!important;
+
+.btn {
+    background-color: #203239 !important;
 }
+.nav-item:hover{
+ text-decoration: underline;
+ text-decoration-color: green;
+ font-weight: bold;
+ text-decoration-thickness:6px ;
+}
+
 .search-box {
-    max-width: 90%; 
+    max-width: 90%;
 }
+
+.img-thumbnail{
+    border: none;
+}
+
 .search-input {
-    font-size: 14px; 
-    border: none; 
-    outline: none !important; 
-    box-shadow: none !important; 
+    font-size: 14px;
+    border: none;
+    outline: none !important;
+    box-shadow: none !important;
 }
-.font-poppins{
-    font-family: poppins;
+
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
 }
-.home{
-    margin-left: 100px;
-    margin-right: 100px;
+
+.home {
     padding-bottom: 50px;
 }
-.plus{
+
+.plus {
     color: #FF7527;
     font-weight: bold;
 }
-.engage>div{
-    width:120px
+
+.engage > div {
+    width: 120px;
 }
+
+
+
+
+/* Tahapan section start */
+
+
+.tahapan{
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card-title{
+    border-left: 4px solid #FF7527;
+    padding-left: 6px;
+}
+.card-title {
+    border-left: 4px solid #FF7527; /* বর্ডার রঙ এবং প্রস্থ */
+    padding-left: 20px; /* বর্ডারের কাছাকাছি টেক্সটের মার্জিন */
+    border-radius: 1px; 
+}
+.fa-arrow-right{
+    margin-left: 20px;
+}
+
+
+/* Tahapan section end */
