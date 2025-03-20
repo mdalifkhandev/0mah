@@ -11,6 +11,9 @@
  font-weight: bold;
  text-decoration-thickness:6px ;
 }
+.title{
+    font-weight: 600;
+}
 
 .search-box {
     max-width: 90%;
@@ -43,6 +46,9 @@
 .engage > div {
     width: 120px;
 }
+.engage > div>h1 {
+    font-weight: 600;
+}
 
 
 
@@ -54,6 +60,12 @@
     background-color: white;
     margin-top: 100px;
     margin-bottom: 100px;
+}
+.tahapan-title{
+    font-weight: 600;
+    color: #203239;
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 .card-title{
     border-left: 4px solid #FF7527;
@@ -67,6 +79,53 @@
 .fa-arrow-right{
     margin-left: 20px;
 }
+.tahapan-card{
+    margin-top: 70px;
+}
+.number{
+    color: #FF7527;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: poppins;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 300;
+    color: rgb(32, 50, 57,0.55);
+    padding: 25px;
+}
 
 
 /* Tahapan section end */
+/* 
+==============================
+Residen section start
+===============================
+*/
+
+.residen{
+    background-color: #EEEDDE;
+}
+.pilihan{
+    padding-top: 70px;
+    font-weight: 500;
+    color: #FF7527;
+    font-size: 16px;
+}
+.residen-img-2{
+    margin-top: -395px;
+    margin-left: 88px;
+}
+.fa-phone{
+    color: #203239;
+    font-size: 15px;
+}
+
+
+
+
+/* 
+==============================
+Residen section end
+===============================
+*/
