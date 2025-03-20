@@ -99,15 +99,17 @@
 /* Tahapan section end */
 /* 
 ==============================
-Residen section start
+Residen Favorit section start
 ===============================
 */
 
 .residen{
     background-color: #EEEDDE;
 }
-.pilihan{
+.inner{
     padding-top: 70px;
+}
+.pilihan{
     font-weight: 500;
     color: #FF7527;
     font-size: 16px;
@@ -120,12 +122,41 @@ Residen section start
     color: #203239;
     font-size: 15px;
 }
+.residen .container .row{
+    padding-top: 70px;
+}
 
 
 
 
 /* 
 ==============================
-Residen section end
+Residen Favorit section end
+===============================
+*/
+/* 
+==============================
+Residen Berbagai section start
+===============================
+*/
+
+
+
+
+.residen-berbagai{
+    margin-top: 70px;
+}
+.cards{
+    margin-top: 70px;
+}
+.cards .row .col-4 h2{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 16px;
+    line-height: 1.5;
+}
+/* 
+==============================
+Residen Berbagai section end
 ===============================
 */
