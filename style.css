@@ -72,8 +72,8 @@
     padding-left: 6px;
 }
 .card-title {
-    border-left: 4px solid #FF7527; /* বর্ডার রঙ এবং প্রস্থ */
-    padding-left: 20px; /* বর্ডারের কাছাকাছি টেক্সটের মার্জিন */
+    border-left: 4px solid #FF7527; 
+    padding-left: 20px; 
     border-radius: 1px; 
 }
 .fa-arrow-right{
@@ -145,6 +145,7 @@ Residen Berbagai section start
 
 .residen-berbagai{
     margin-top: 70px;
+    margin-bottom: 70px;
 }
 .cards{
     margin-top: 70px;
@@ -158,5 +159,75 @@ Residen Berbagai section start
 /* 
 ==============================
 Residen Berbagai section end
+===============================
+*/
+
+/* 
+==============================
+Hubuing kani section start
+===============================
+*/
+
+
+
+.hubungi{
+    background-color: #eeedde;
+}
+.hubungi .container h1{
+    padding-top: 70px;
+    font-weight: bold;
+}
+.call-card{
+    border: 2px solid #ff7527;
+    border-radius: 10px;
+    height: 180px;
+    width: 243px;
+}
+.call-btn {
+    background-color: rgba(255, 117, 39, 0.2) !important;
+    width: 80%;
+    margin: 10px 20px;
+    color: #FF7527 !important;
+}
+.email-btn {
+    color: white !important;
+    width: 80%;
+    margin: 10px 20px;
+    background-color: #FF7527 !important;
+}
+.hubphon{
+    font-size: 30px;
+}
+
+
+
+/* 
+==============================
+Hubuing kani section end
+===============================
+*/
+/* 
+==============================
+Footer section end
+===============================
+*/
+
+.footer {
+    background-color: #203239; 
+}
+
+.social-icons i {
+    font-size: 24px;
+    color: white;
+    transition: 0.3s;
+}
+
+.social-icons i:hover {
+    color: #FF7527; 
+}
+
+/* 
+==============================
+Footer section end
 ===============================
 */
